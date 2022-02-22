@@ -1,7 +1,9 @@
 # Desafio proposto pela empresa "stealth_ag"
-Desafio feito em 18 de julho de 2021. Foi feito um relatório de forma que qualquer público pudesse entender o que foi feito.
+Desafio feito em 18 de julho de 2021. 
 
-## Desafio
+## Foi feito um [relatório]([CHALLENGE]_[METEOR]_Luis_Eduardo_Partichelli_Potrich.pdf) de forma que qualquer público pudesse entender o que foi feito no arquivo solução do [Jupyter]([CHALLENGE]_[METEOR]_Luis_Eduardo_Partichelli_Potrich.ipynb).
+
+### [Desafio](Desafio.docx.docx)
 * Meteor Challenge (Part 1)
 
 
